@@ -1,6 +1,8 @@
 # Office365 To Do CLI Tool
 Create virtual environment
-```python3 -m venv .venv --prompt to-do```
+```
+python3 -m venv .venv --prompt to-do
+```
 
 Activate .venv
 ```source ./.venv/bin/activate```
