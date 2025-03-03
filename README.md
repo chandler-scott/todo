@@ -19,7 +19,7 @@ export EMAIL=[EMAIL]
 export PASS=[PASS]
 ```
 
-# Get My Day
+## Get My Day
 ```
 todo
 ```
