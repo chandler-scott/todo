@@ -1,4 +1,5 @@
 # Office365 To Do CLI Tool
+A command-line interface tool using Selenium to scrape the Office365 To Do app.
 
 ## Setup
 1. Create virtual environment
