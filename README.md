@@ -20,7 +20,8 @@ export EMAIL=[EMAIL]
 export PASS=[PASS]
 ```
 
-## Get My Day
+## Using the Tool
+Get My Day
 ```
 todo
 ```
